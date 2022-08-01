@@ -1,3 +1,4 @@
 venv
-*__pycache__/	
-/mpokket/**/__pycache__	
+# *__pycache__/	
+# mpokket/**/__pycache__	
+__pycache__/
