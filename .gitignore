@@ -1,2 +1,3 @@
 venv
 *__pycache__/	
+/mpokket/**/__pycache__	
